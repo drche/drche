@@ -1,4 +1,5 @@
 DH Exit Notes:
+
 https://github.com/dhoule/CS533-Big-Data-Data-Mining/tree/SNG6
 The above is SNGS6; utilizes seed points, growing, and pruning.
 https://github.com/dhoule/CS533-Big-Data-Data-Mining/tree/SNG2.5(pruning)
